@@ -24,7 +24,7 @@ macaddr_acl=0
 auth_algs=1
 ignore_broadcast_ssid=0
 wpa=2
-wpa_passphrase=bridge
+wpa_passphrase=bridge1234
 wpa_key_mgmt=WPA-PSK
 rsn_pairwise=CCMP
 EOF
